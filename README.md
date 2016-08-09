@@ -32,7 +32,11 @@ It must be added @line-79 of **_bundle-deal-plugin.php_**
 - **Download** the Plugin
 - **Extract** to any Folder
 - **Create** a Folder called *bundle-deal-plugin* at **./XAMPP/htdocs/WordPress-Website/wp-content/plugins/**
-- **Copy** *PHP file* to **./XAMPP/htdocs/WordPress-Website/wp-content/plugins/bundle-deal-plugin**
+- **Copy** *bundle-deal-plugin folder content* to **./XAMPP/htdocs/WordPress-Website/wp-content/plugins/bundle-deal-plugin**
+- **Create** a Folder called *api* at **./XAMPP/htdocs/WordPress-Website/**
+- **Copy** *api folder content to* to **./XAMPP/htdocs/WordPress-Website/api/**
+- **Create** a Folder called *server* at **./XAMPP/htdocs/WordPress-Website/**
+- **Copy** *server folder content to* **./XAMPP/htdocs/WordPress-Website/server/**
 - **Open** any Browser
 - **Open** the Website **http://localhost/WordPress-Website/wp-admin**
 - **Enter** Administrator Credentials and Login
